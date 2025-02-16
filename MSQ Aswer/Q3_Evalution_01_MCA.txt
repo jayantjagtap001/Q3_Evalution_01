@@ -1,0 +1,25 @@
+Direct Answer as Follows:-
+Q.1]A)class MyClass { };
+
+Q.2]B)private
+
+Q.3]b) A constructor can have the same name as the class.
+
+Q.4]c) 5
+
+Q.5]b) It is used to access the instance members of the current object.
+
+Q.6]b) public int x { get; set; }
+
+Q.7]a) Compilation error
+
+Q.8]b)Since int is a primitive, we cannot use new with it.
+
+Q.9] Have multiple right Answer as follows:-
+2)Static functions of a class never receive the this reference.
+3)Instance member functions of a class always receive a this reference.
+
+Q.10]
+1)Sample s = new Sample();
+2)Sample s; s = new Sample();
+
