@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\Q3 Evalution 1\Inheritance\Inheritance 03\bin\Debug\net9.0\Inheritance 03.exe
+C:\Users\Admin\Desktop\Q3 Evalution 1\Inheritance\Inheritance 03\bin\Debug\net9.0\Inheritance 03.deps.json
+C:\Users\Admin\Desktop\Q3 Evalution 1\Inheritance\Inheritance 03\bin\Debug\net9.0\Inheritance 03.runtimeconfig.json
+C:\Users\Admin\Desktop\Q3 Evalution 1\Inheritance\Inheritance 03\bin\Debug\net9.0\Inheritance 03.dll
+C:\Users\Admin\Desktop\Q3 Evalution 1\Inheritance\Inheritance 03\bin\Debug\net9.0\Inheritance 03.pdb
+C:\Users\Admin\Desktop\Q3 Evalution 1\Inheritance\Inheritance 03\obj\Debug\net9.0\Inheritance 03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Q3 Evalution 1\Inheritance\Inheritance 03\obj\Debug\net9.0\Inheritance 03.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Q3 Evalution 1\Inheritance\Inheritance 03\obj\Debug\net9.0\Inheritance 03.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Q3 Evalution 1\Inheritance\Inheritance 03\obj\Debug\net9.0\Inheritance 03.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Q3 Evalution 1\Inheritance\Inheritance 03\obj\Debug\net9.0\Inheritance 03.dll
+C:\Users\Admin\Desktop\Q3 Evalution 1\Inheritance\Inheritance 03\obj\Debug\net9.0\refint\Inheritance 03.dll
+C:\Users\Admin\Desktop\Q3 Evalution 1\Inheritance\Inheritance 03\obj\Debug\net9.0\Inheritance 03.pdb
+C:\Users\Admin\Desktop\Q3 Evalution 1\Inheritance\Inheritance 03\obj\Debug\net9.0\Inheritance 03.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Q3 Evalution 1\Inheritance\Inheritance 03\obj\Debug\net9.0\ref\Inheritance 03.dll
