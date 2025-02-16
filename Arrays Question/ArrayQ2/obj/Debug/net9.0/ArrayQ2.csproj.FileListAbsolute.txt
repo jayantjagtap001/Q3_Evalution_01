@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\Q3 Evalution 1\ArrayQ2\bin\Debug\net9.0\ArrayQ2.exe
+C:\Users\Admin\Desktop\Q3 Evalution 1\ArrayQ2\bin\Debug\net9.0\ArrayQ2.deps.json
+C:\Users\Admin\Desktop\Q3 Evalution 1\ArrayQ2\bin\Debug\net9.0\ArrayQ2.runtimeconfig.json
+C:\Users\Admin\Desktop\Q3 Evalution 1\ArrayQ2\bin\Debug\net9.0\ArrayQ2.dll
+C:\Users\Admin\Desktop\Q3 Evalution 1\ArrayQ2\bin\Debug\net9.0\ArrayQ2.pdb
+C:\Users\Admin\Desktop\Q3 Evalution 1\ArrayQ2\obj\Debug\net9.0\ArrayQ2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Q3 Evalution 1\ArrayQ2\obj\Debug\net9.0\ArrayQ2.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Q3 Evalution 1\ArrayQ2\obj\Debug\net9.0\ArrayQ2.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Q3 Evalution 1\ArrayQ2\obj\Debug\net9.0\ArrayQ2.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Q3 Evalution 1\ArrayQ2\obj\Debug\net9.0\ArrayQ2.dll
+C:\Users\Admin\Desktop\Q3 Evalution 1\ArrayQ2\obj\Debug\net9.0\refint\ArrayQ2.dll
+C:\Users\Admin\Desktop\Q3 Evalution 1\ArrayQ2\obj\Debug\net9.0\ArrayQ2.pdb
+C:\Users\Admin\Desktop\Q3 Evalution 1\ArrayQ2\obj\Debug\net9.0\ArrayQ2.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Q3 Evalution 1\ArrayQ2\obj\Debug\net9.0\ref\ArrayQ2.dll

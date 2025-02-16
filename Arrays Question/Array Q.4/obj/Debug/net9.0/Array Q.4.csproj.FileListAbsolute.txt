@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\Q3 Evalution 1\Array Q.4\bin\Debug\net9.0\Array Q.4.exe
+C:\Users\Admin\Desktop\Q3 Evalution 1\Array Q.4\bin\Debug\net9.0\Array Q.4.deps.json
+C:\Users\Admin\Desktop\Q3 Evalution 1\Array Q.4\bin\Debug\net9.0\Array Q.4.runtimeconfig.json
+C:\Users\Admin\Desktop\Q3 Evalution 1\Array Q.4\bin\Debug\net9.0\Array Q.4.dll
+C:\Users\Admin\Desktop\Q3 Evalution 1\Array Q.4\bin\Debug\net9.0\Array Q.4.pdb
+C:\Users\Admin\Desktop\Q3 Evalution 1\Array Q.4\obj\Debug\net9.0\Array Q.4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Q3 Evalution 1\Array Q.4\obj\Debug\net9.0\Array Q.4.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Q3 Evalution 1\Array Q.4\obj\Debug\net9.0\Array Q.4.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Q3 Evalution 1\Array Q.4\obj\Debug\net9.0\Array Q.4.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Q3 Evalution 1\Array Q.4\obj\Debug\net9.0\Array Q.4.dll
+C:\Users\Admin\Desktop\Q3 Evalution 1\Array Q.4\obj\Debug\net9.0\refint\Array Q.4.dll
+C:\Users\Admin\Desktop\Q3 Evalution 1\Array Q.4\obj\Debug\net9.0\Array Q.4.pdb
+C:\Users\Admin\Desktop\Q3 Evalution 1\Array Q.4\obj\Debug\net9.0\Array Q.4.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Q3 Evalution 1\Array Q.4\obj\Debug\net9.0\ref\Array Q.4.dll

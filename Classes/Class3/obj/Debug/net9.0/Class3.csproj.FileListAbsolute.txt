@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\Q3 Evalution 1\Q3_Evalution_01\Classes\Class3\bin\Debug\net9.0\Class3.exe
+C:\Users\Admin\Desktop\Q3 Evalution 1\Q3_Evalution_01\Classes\Class3\bin\Debug\net9.0\Class3.deps.json
+C:\Users\Admin\Desktop\Q3 Evalution 1\Q3_Evalution_01\Classes\Class3\bin\Debug\net9.0\Class3.runtimeconfig.json
+C:\Users\Admin\Desktop\Q3 Evalution 1\Q3_Evalution_01\Classes\Class3\bin\Debug\net9.0\Class3.dll
+C:\Users\Admin\Desktop\Q3 Evalution 1\Q3_Evalution_01\Classes\Class3\bin\Debug\net9.0\Class3.pdb
+C:\Users\Admin\Desktop\Q3 Evalution 1\Q3_Evalution_01\Classes\Class3\obj\Debug\net9.0\Class3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Q3 Evalution 1\Q3_Evalution_01\Classes\Class3\obj\Debug\net9.0\Class3.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Q3 Evalution 1\Q3_Evalution_01\Classes\Class3\obj\Debug\net9.0\Class3.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Q3 Evalution 1\Q3_Evalution_01\Classes\Class3\obj\Debug\net9.0\Class3.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Q3 Evalution 1\Q3_Evalution_01\Classes\Class3\obj\Debug\net9.0\Class3.sourcelink.json
+C:\Users\Admin\Desktop\Q3 Evalution 1\Q3_Evalution_01\Classes\Class3\obj\Debug\net9.0\Class3.dll
+C:\Users\Admin\Desktop\Q3 Evalution 1\Q3_Evalution_01\Classes\Class3\obj\Debug\net9.0\refint\Class3.dll
+C:\Users\Admin\Desktop\Q3 Evalution 1\Q3_Evalution_01\Classes\Class3\obj\Debug\net9.0\Class3.pdb
+C:\Users\Admin\Desktop\Q3 Evalution 1\Q3_Evalution_01\Classes\Class3\obj\Debug\net9.0\Class3.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Q3 Evalution 1\Q3_Evalution_01\Classes\Class3\obj\Debug\net9.0\ref\Class3.dll

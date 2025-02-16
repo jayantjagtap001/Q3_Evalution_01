@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\Q3 Evalution 1\Arryas Questions\obj\Debug\net9.0\Arryas Questions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Q3 Evalution 1\Arryas Questions\obj\Debug\net9.0\Arryas Questions.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Q3 Evalution 1\Arryas Questions\obj\Debug\net9.0\Arryas Questions.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Q3 Evalution 1\Arryas Questions\obj\Debug\net9.0\Arryas Questions.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Q3 Evalution 1\Arryas Questions\bin\Debug\net9.0\Arryas Questions.exe
+C:\Users\Admin\Desktop\Q3 Evalution 1\Arryas Questions\bin\Debug\net9.0\Arryas Questions.deps.json
+C:\Users\Admin\Desktop\Q3 Evalution 1\Arryas Questions\bin\Debug\net9.0\Arryas Questions.runtimeconfig.json
+C:\Users\Admin\Desktop\Q3 Evalution 1\Arryas Questions\bin\Debug\net9.0\Arryas Questions.dll
+C:\Users\Admin\Desktop\Q3 Evalution 1\Arryas Questions\bin\Debug\net9.0\Arryas Questions.pdb
+C:\Users\Admin\Desktop\Q3 Evalution 1\Arryas Questions\obj\Debug\net9.0\Arryas Questions.dll
+C:\Users\Admin\Desktop\Q3 Evalution 1\Arryas Questions\obj\Debug\net9.0\refint\Arryas Questions.dll
+C:\Users\Admin\Desktop\Q3 Evalution 1\Arryas Questions\obj\Debug\net9.0\Arryas Questions.pdb
+C:\Users\Admin\Desktop\Q3 Evalution 1\Arryas Questions\obj\Debug\net9.0\Arryas Questions.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Q3 Evalution 1\Arryas Questions\obj\Debug\net9.0\ref\Arryas Questions.dll
