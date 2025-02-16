@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\Q3 Evalution 1\Q3_Evalution_01\Polymorphism\poly 2\bin\Debug\net9.0\poly 2.exe
+C:\Users\Admin\Desktop\Q3 Evalution 1\Q3_Evalution_01\Polymorphism\poly 2\bin\Debug\net9.0\poly 2.deps.json
+C:\Users\Admin\Desktop\Q3 Evalution 1\Q3_Evalution_01\Polymorphism\poly 2\bin\Debug\net9.0\poly 2.runtimeconfig.json
+C:\Users\Admin\Desktop\Q3 Evalution 1\Q3_Evalution_01\Polymorphism\poly 2\bin\Debug\net9.0\poly 2.dll
+C:\Users\Admin\Desktop\Q3 Evalution 1\Q3_Evalution_01\Polymorphism\poly 2\bin\Debug\net9.0\poly 2.pdb
+C:\Users\Admin\Desktop\Q3 Evalution 1\Q3_Evalution_01\Polymorphism\poly 2\obj\Debug\net9.0\poly 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Q3 Evalution 1\Q3_Evalution_01\Polymorphism\poly 2\obj\Debug\net9.0\poly 2.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Q3 Evalution 1\Q3_Evalution_01\Polymorphism\poly 2\obj\Debug\net9.0\poly 2.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Q3 Evalution 1\Q3_Evalution_01\Polymorphism\poly 2\obj\Debug\net9.0\poly 2.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Q3 Evalution 1\Q3_Evalution_01\Polymorphism\poly 2\obj\Debug\net9.0\poly 2.sourcelink.json
+C:\Users\Admin\Desktop\Q3 Evalution 1\Q3_Evalution_01\Polymorphism\poly 2\obj\Debug\net9.0\poly 2.dll
+C:\Users\Admin\Desktop\Q3 Evalution 1\Q3_Evalution_01\Polymorphism\poly 2\obj\Debug\net9.0\refint\poly 2.dll
+C:\Users\Admin\Desktop\Q3 Evalution 1\Q3_Evalution_01\Polymorphism\poly 2\obj\Debug\net9.0\poly 2.pdb
+C:\Users\Admin\Desktop\Q3 Evalution 1\Q3_Evalution_01\Polymorphism\poly 2\obj\Debug\net9.0\poly 2.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Q3 Evalution 1\Q3_Evalution_01\Polymorphism\poly 2\obj\Debug\net9.0\ref\poly 2.dll
